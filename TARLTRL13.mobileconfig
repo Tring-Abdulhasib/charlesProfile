@@ -66,21 +66,23 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
 			<false/>
+			<key>Password</key>
+			<string>T63u@20251997</string>
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
 			<string>Wi-Fi</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.71566C46-4A9C-4847-B432-54A916F63E5B</string>
+			<string>com.apple.wifi.managed.22D81E9E-988C-41FC-AFD6-828E14923A41</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>71566C46-4A9C-4847-B432-54A916F63E5B</string>
+			<string>22D81E9E-988C-41FC-AFD6-828E14923A41</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
@@ -102,7 +104,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>75E49677-6E83-4B4D-AB2A-D050CE207710</string>
+	<string>7DCE2608-2B91-434E-9A4E-F4B1EAC69D2A</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
